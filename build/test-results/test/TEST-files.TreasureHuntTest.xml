@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="files.TreasureHuntTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-18T18:02:47" hostname="DESKTOP-0D0M39P" time="0.044">
+  <properties/>
+  <testcase name="testFindTreasureDecoding" classname="files.TreasureHuntTest" time="0.018"/>
+  <testcase name="testFindTreasureReadPastMapEnd" classname="files.TreasureHuntTest" time="0.004"/>
+  <testcase name="testFindTreasureExtended" classname="files.TreasureHuntTest" time="0.016"/>
+  <testcase name="testFindTreasureReading" classname="files.TreasureHuntTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
